@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Real data (never commit company data)
+ReportProject2025database.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
