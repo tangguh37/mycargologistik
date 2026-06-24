@@ -1,8 +1,8 @@
 # Environment
 .env
 
-# Real data (never commit company data)
-ReportProject2025database.csv
+# Real company data (never commit)
+data/ReportProject2025database.csv
 
 # Python
 __pycache__/
